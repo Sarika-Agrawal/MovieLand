@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sarika-Agrawal/MovieLand.git/static/css/main.62617a9d.css",
+    "main.js": "/Sarika-Agrawal/MovieLand.git/static/js/main.3cfb6f96.js",
+    "index.html": "/Sarika-Agrawal/MovieLand.git/index.html",
+    "main.62617a9d.css.map": "/Sarika-Agrawal/MovieLand.git/static/css/main.62617a9d.css.map",
+    "main.3cfb6f96.js.map": "/Sarika-Agrawal/MovieLand.git/static/js/main.3cfb6f96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62617a9d.css",
+    "static/js/main.3cfb6f96.js"
+  ]
+}
